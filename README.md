@@ -22,9 +22,9 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-   
-    !(C:\Users\raybo\Documents\GitHub\read-me-generator\assets\images\Readmecapture.JPG)
-  
+       
+  ![Readmecapture](https://user-images.githubusercontent.com/122712555/231345454-7ef79d4a-d595-401b-a73e-d8010cbefbfd.JPG)
+
 
 ## Test
 none

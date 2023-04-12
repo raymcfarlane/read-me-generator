@@ -2,24 +2,18 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+- What was your motivation? Create a readme file using node
+- Why did you build this project? Learn how to utilize node to create questionaire and file
+- What problem does it solve? easily allowing a user to create readme file without manually typing out the questions
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+## Table of Contents
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Description](#description)
 - [Usage](#usage)
-- [Photos](#photos)
 - [Test](#test)
 - [Badges](#badges)
 - [License](#license)
-
 
 
 ## Usage
@@ -31,8 +25,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
-
-## Photos
 
 ## Test
 none
